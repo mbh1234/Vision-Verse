@@ -3,7 +3,7 @@
 #### **Project Overview**  
 "VISION VERSE" is a comprehensive image processing project designed to introduce fundamental techniques and tools in Python programming, image enhancement, and manipulation. Through weekly lectures, hands-on assignments, and a capstone project, mentees learn key image processing concepts such as edge detection, image segmentation, and filtering, which are crucial in applications like medical imaging and computer vision.
 
-I am one of the mentors for the project. 
+I was a mentor for this project involving 40 mentees. 
 ---
 
 #### **Project Timeline**
