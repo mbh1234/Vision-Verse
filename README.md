@@ -20,7 +20,7 @@ I was a mentor for this project involving 40 mentees.
 #### **Key Features**
 - **Weekly Lectures**: Delivering detailed lessons on image processing concepts.
 - **Hands-on Assignments**: Exercises to apply techniques to real-world scenarios.
-- **Capstone Project**: A final project where mentees demonstrate their understanding and creativity in image processing 
+- **Capstone Project**: A final project where mentees demonstrate their understanding and creativity in image processing. For more details of the capstone project, visit [this](https://github.com/EslamAsHhraf/Grades-auto-filler) 
 - **Doubt Sessions**: Weekly live sessions for clarification and guidance.
 
 ---
